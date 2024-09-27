@@ -28,7 +28,7 @@ def main(page: ft.Page):
             controls=[
                 img
             ],alignment="CENTER"),
-        ft.row(
+        ft.Row(
             controls=[
                 btnCalcular,
                 btnlimpiar
